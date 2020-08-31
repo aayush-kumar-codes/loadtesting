@@ -33,8 +33,20 @@ class GetApisLoadTesting(TaskSet):
         self.client.get("/datasync/filter/get/education/display/full?account-name="+str(config.account_name)+"")
 
     @task
+    def classifymoved(self):
+        self.client.get("/datasync/classify-moved/5f3e393da226750039dc36c7/HR/softwaredevelopment?account-name="+str(config.account_name)+"")
+
+    @task
+    def profilemoved(self):
+        self.client.get("/datasync/job-profile-moved/5f3e393da226750039dc36c7/5e86bdab718bf237a97fefe2/5e86bdab718bf237a97fefe2?account-name="+str(config.account_name)+"")
+
+    @task
     def datasyncdulldata(self):
         self.client.get("/datasync/full?account-name="+str(config.account_name)+"")
+
+
+class SkillsApisLoadTesting(TaskSet):
+    wait_time = between(1, 2)
 
     @task
     def Search(self):
@@ -56,15 +68,6 @@ class GetApisLoadTesting(TaskSet):
     def getJobStatus(self):
         self.client.get("/resume/getJobStatus/5e86bdab718bf237a97fefe2?account-name="+str(config.account_name)+"")
 
-    @task
-    def classifymoved(self):
-        self.client.get("/datasync/classify-moved/5f3e393da226750039dc36c7/HR/softwaredevelopment?account-name="+str(config.account_name)+"")
-
-    @task
-    def classifymoved(self):
-        self.client.get("/datasync/job-profile-moved/5f3e393da226750039dc36c7/5e86bdab718bf237a97fefe2/5e86bdab718bf237a97fefe2?account-name="+str(config.account_name)+"")
 
 class Memory(HttpUser):
-    tasks = [GetApisLoadTesting]
-    min_wait = 5000
-    max_wait = 9000
+    tasks = [GetApisLoadTesting,SkillsApisLoadTesting]
