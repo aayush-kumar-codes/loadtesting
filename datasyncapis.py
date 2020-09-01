@@ -55,9 +55,3 @@ class DataSyncApisLoadTesting(TaskSet):
         response = self.client.get("/datasync/job-profile-moved/5f3e393da226750039dc36c7/5e86bdab718bf237a97fefe2/5e86bdab718bf237a97fefe2?account-name="+str(config.account_name)+"")
         assert response.status_code == 200
         assert response
-
-    @task
-    def datasyncdulldata(self):
-        response = self.client.get("/datasync/full?account-name="+str(config.account_name)+"")
-        assert response.status_code == 200  
-        assert response
