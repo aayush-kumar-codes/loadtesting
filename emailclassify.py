@@ -9,6 +9,6 @@ class Emailclassify(TaskSet):
 
     @task
     def emailclassify(self):
-        response = self.client.get("/emailclassify/?account-name="+str(config.account_name)+"",json=payloads.EmailclassifyPayload)
+        response = self.client.post("/emailclassify/?account-name="+str(config.account_name)+"",json=payloads.EmailclassifyPayload)
         assert response.status_code == 200
         assert response

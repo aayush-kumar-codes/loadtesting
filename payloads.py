@@ -131,16 +131,16 @@ CandidatePayload= {
         ],
         "cvText": [
             {
-                "text": " RESUME Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Email: er.abhisheksombanshi@gmail.com Mobile: +919354402231 OBJECTIVE To apply my skills & experience in the various disciplines of Software Development in an Organization which gives me an opportunity to learn, grow & proves one's ability. QUALIFICATION Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with 71% marks in year 2018. Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012. KEY SKILLS Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery Project Project Name: http://www.exploreouting.com/ Description: Explore Outing India Travel Guide that you will always like to keep whenever you travel. Just like your personal travel guide, it takes care of all of your travel needs right from the suggestion about where to travel as per your choice, information about nearby tourist attractions, booking a hotel prior to travel or at last minute nearby your current location, get an advice/help from nearby travelers, road conditions and updates, weather information and updates Responsibilities: Technology: HTML,CSS, JAVASCRIPT,JQUERY, BOOTSTRAP, RESPONSIVE DESIGN PERSONAL DETAIL Sex : Male Nationality : Indian by birth. Date of Birth : 06 Jan 1998 Marital Status : Single Permanent Address : Vill : Bhadar Distric : Amethi (U.P.) Languages Known : English and Hindi I hereby declare that information furnished above is true to best of my knowledge. Place : _______________ Date : _______________ ____________________(Abhishek Sombanshi) "
+                "text": " RESUME Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Email: er.abhisheksombanshi@gmail.com Mobile: +919354402231 OBJECTIVE To apply my skills & experience in the various disciplines of Software Development in an Organization which gives me an opportunity to learn, grow & proves one's ability. QUALIFICATION Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with 71% marks in year 2018. Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012. KEY SKILLS Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery Project Project Name: http://www.exploreouting.com/ Description: Explore Outing India Travel Guide that you will always like to keep whenever you travel. Just like your personal travel guide, it takes care of all of your travel needs right from the suggestion about where to travel as per your choice, information about nearby tourist attractions, booking a hotel prior to travel or at last minute nearby your current location, get an advice/help from nearby travelers, road conditions and updates, weather information and updates Responsibilities: Technology: HTML,CSS, JAVASCRIPT,JQUERY, BOOTSTRAP, RESPONSIVE DESIGN PERSONAL DETAIL Sex : Male Nationality : Indian by birth. Date of Birth : 06 Jan 1998 Marital Status : Single Permanent Address : Vill : Bhadar Distric : Amethi (U.P.) Languages Known : English and Hindi I hereby declare that information furnished above is True to best of my knowledge. Place : _______________ Date : _______________ ____________________(Abhishek Sombanshi) "
             }
         ],
         "callingDetails": [],
         "holdReasonData": [],
         "sequence": 1749900,
-        "conversation": false,
-        "cvParsedStatus": true,
-        "candidate": true,
-        "addSearch": true,
+        "conversation": False,
+        "cvParsedStatus": True,
+        "candidate": True,
+        "addSearch": True,
         "skills": [],
         "email_id": 57100,
         "from": "Abhishek Sombanshi",
@@ -151,9 +151,9 @@ CandidatePayload= {
         "email_timestamp": "1598514223611",
         "subject": "3 star applicant - Naukri.com - Frontend Developer JavaScript, Noida, 1 L",
         "imap_email": "excellenceseo@gmail.com",
-        "unread": false,
+        "unread": False,
         "uid": None,
-        "is_attachment": true,
+        "is_attachment": True,
         "job_profile_id": "5f47641fcfdeed0c6cd36002",
         "is_automatic_email_send": 0,
         "tag_id": "5f476420cfdeed0c6cd36003",
@@ -215,22 +215,22 @@ CandidatePayload= {
                 "timeTaken": 0.501030683517456
             }
         ],
-        "cvParsedAI": true,
+        "cvParsedAI": True,
         "cvParsedInfo": {
             "newCompressedStructuredContent": {
                 "1": [
                     {
                         "line": "",
-                        "orphan": true,
+                        "orphan": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_2_Title_0.9802706241607666_bbox__ocr.png",
                             "text": "RESUME\n",
                             "correctLine": "RESUME",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 2,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_2_Title_0.9802706241607666_bbox__ocr.png"
                         },
-                        "matched": true,
+                        "matched": True,
                         "classify": "CONTACT",
                         "classifyreason": "(Phone or Email)",
                         "contentIdx": [
@@ -240,12 +240,12 @@ CandidatePayload= {
                     },
                     {
                         "line": "RESUME Email: er.abhisheksombanshi@gmail.com Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Mobile: +919354402231",
-                        "matched": true,
+                        "matched": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_0_Text_0.9990505576133728_bbox__ocr.png",
                             "text": "Abhishek Sombanshi\n\nA-2/15, Sector-15,\n\nNoida, UP, India-201301\n\nEmail: er.abhisheksombanshi@gmail.com\n\nMobile: +919354402231\n",
                             "correctLine": "Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Email: er.abhisheksombanshi@gmail.com Mobile: +919354402231",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 0,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_0_Text_0.9990505576133728_bbox__ocr.png"
                         },
@@ -265,16 +265,16 @@ CandidatePayload= {
                     },
                     {
                         "line": "QUALIFICATION OBJECTIVE",
-                        "orphan": true,
+                        "orphan": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_3_Title_0.980036199092865_bbox__ocr.png",
                             "text": "OBJECTIVE\n",
                             "correctLine": "OBJECTIVE",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 3,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_3_Title_0.980036199092865_bbox__ocr.png"
                         },
-                        "matched": true,
+                        "matched": True,
                         "append": [
                             {
                                 "type": "append",
@@ -304,12 +304,12 @@ CandidatePayload= {
                     },
                     {
                         "line": "To apply my skills & experience in the various disciplines of Software Development in an Organization which gives me an opportunity to learn, grow & proves one’s ability.",
-                        "matched": true,
+                        "matched": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_7_Text_0.8845799565315247_bbox__ocr.png",
                             "text": "To apply my skills & experience in the various disciplines of Software Development in an Organization\nwhich gives me an opportunity to learn, grow & proves one’s ability.\n",
                             "correctLine": "To apply my skills & experience in the various disciplines of Software Development in an Organization which gives me an opportunity to learn, grow & proves one’s ability.",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 7,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_7_Text_0.8845799565315247_bbox__ocr.png"
                         },
@@ -328,12 +328,12 @@ CandidatePayload= {
                     },
                     {
                         "line": "Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with 71% marks in year 2018.",
-                        "matched": true,
+                        "matched": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_6_Text_0.9451014399528503_bbox__ocr.png",
                             "text": "Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with\n71% marks in year 2018.\n",
                             "correctLine": "Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with 71% marks in year 2018.",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 6,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_6_Text_0.9451014399528503_bbox__ocr.png"
                         },
@@ -349,12 +349,12 @@ CandidatePayload= {
                     },
                     {
                         "line": "Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012.",
-                        "matched": true,
+                        "matched": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_1_Text_0.9952805638313293_bbox__ocr.png",
                             "text": "Intermediate from CBSE Board with 60% marks in year 2014.\n\nHigh School from CBSE Board with 72% marks in year 2012.\n",
                             "correctLine": "Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012.",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 1,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_1_Text_0.9952805638313293_bbox__ocr.png"
                         },
@@ -374,12 +374,12 @@ CandidatePayload= {
                     },
                     {
                         "line": "Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery KEY SKILLS",
-                        "matched": true,
+                        "matched": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_5_Text_0.9511072635650635_bbox__ocr.png",
                             "text": "Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery\n",
                             "correctLine": "Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 5,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_5_Text_0.9511072635650635_bbox__ocr.png"
                         },
@@ -390,14 +390,14 @@ CandidatePayload= {
                             6,
                             7
                         ],
-                        "classifyNN": false,
+                        "classifyNN": False,
                         "classify": "NOENTITY"
                     },
                     {
                         "line": "",
                         "orphan": True,
                         "matched": False,
-                        "strayText": true,
+                        "strayText": True,
                         "contentIdx": [
                             6,
                             7
@@ -407,22 +407,22 @@ CandidatePayload= {
                     },
                     {
                         "line": "Project Description: Explore Outing India Travel Guide that you will always like to keep whenever you travel. Just like your personal travel guide, it takes care of all of your travel needs right from the suggestion about where to travel as per your choice, information about nearby tourist attractions, booking a hotel prior to travel or at last minute",
-                        "orphan": true,
+                        "orphan": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_10_Title_0.5165619254112244_bbox__ocr.png",
                             "text": "Project\n",
                             "correctLine": "Project",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 10,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_10_Title_0.5165619254112244_bbox__ocr.png"
                         },
-                        "matched": true,
+                        "matched": True,
                         "append": [
                             {
                                 "type": "pre",
                                 "row": {
                                     "line": "Description: Explore Outing India Travel Guide that you will always like to keep whenever you travel. Just like your personal travel guide, it takes care of all of your travel needs right from the suggestion about where to travel as per your choice, information about nearby tourist attractions, booking a hotel prior to travel or at last minute",
-                                    "matched": true,
+                                    "matched": True,
                                     "matchedRow": {
                                         "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_4_Text_0.9793310761451721_bbox__ocr.png",
                                         "text": "* Project Name: _ http://Awww.exploreouting.com/\n\nDescription: Explore Outing India Travel Guide that you will always like to keep whenever you\ntravel. Just like your personal travel guide, it takes care of all of your travel needs\nright from the suggestion about where to travel as per your choice, information\nabout nearby tourist attractions, booking a hotel prior to travel or at last minute\n",
@@ -534,19 +534,19 @@ CandidatePayload= {
                         "classify": "NOENTITY"
                     },
                     {
-                        "line": "Languages Known English and Hindi I hereby declare that information furnished above is true to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
-                        "matched": true,
+                        "line": "Languages Known English and Hindi I hereby declare that information furnished above is True to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
+                        "matched": True,
                         "matchedRow": {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_4_Text_0.7746361494064331_bbox__ocr.png",
                             "text": "Sex\n\nNationality\n\nDate of Birth\n\nMarital Status\n\nLanguages Known\n\nMale\n\nIndian by birth.\n\n06 Jan 1998\n\nSingle\n\nPermanent Address\n\nEnglish and Hindi\n\nVill : Bhadar Distric : Amethi (U.P.\n",
                             "correctLine": "Sex Nationality Date of Birth Marital Status Languages Known Male Indian by birth. 06 Jan 1998 Single Permanent Address English and Hindi Vill : Bhadar Distric : Amethi (U.P.",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 4,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_4_Text_0.7746361494064331_bbox__ocr.png"
                         },
                         "sortLines": {
                             "8": "English and Hindi",
-                            "9": "I hereby declare that information furnished above is true to best of my knowledge.",
+                            "9": "I hereby declare that information furnished above is True to best of my knowledge.",
                             "10": "PERSONAL DETAIL",
                             "11": "Sex",
                             "12": "Male",
@@ -718,12 +718,12 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "RESUME Email: er.abhisheksombanshi@gmail.com Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Mobile: +919354402231",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_0_Text_0.9990505576133728_bbox__ocr.png",
                                     "text": "Abhishek Sombanshi\n\nA-2/15, Sector-15,\n\nNoida, UP, India-201301\n\nEmail: er.abhisheksombanshi@gmail.com\n\nMobile: +919354402231\n",
                                     "correctLine": "Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Email: er.abhisheksombanshi@gmail.com Mobile: +919354402231",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 0,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_0_Text_0.9990505576133728_bbox__ocr.png"
                                 },
@@ -756,16 +756,16 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "QUALIFICATION OBJECTIVE",
-                                "orphan": true,
+                                "orphan": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_3_Title_0.980036199092865_bbox__ocr.png",
                                     "text": "OBJECTIVE\n",
                                     "correctLine": "OBJECTIVE",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 3,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_3_Title_0.980036199092865_bbox__ocr.png"
                                 },
-                                "matched": true,
+                                "matched": True,
                                 "append": [
                                     {
                                         "type": "append",
@@ -807,12 +807,12 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "To apply my skills & experience in the various disciplines of Software Development in an Organization which gives me an opportunity to learn, grow & proves one’s ability.",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_7_Text_0.8845799565315247_bbox__ocr.png",
                                     "text": "To apply my skills & experience in the various disciplines of Software Development in an Organization\nwhich gives me an opportunity to learn, grow & proves one’s ability.\n",
                                     "correctLine": "To apply my skills & experience in the various disciplines of Software Development in an Organization which gives me an opportunity to learn, grow & proves one’s ability.",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 7,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_7_Text_0.8845799565315247_bbox__ocr.png"
                                 },
@@ -907,12 +907,12 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with 71% marks in year 2018.",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_6_Text_0.9451014399528503_bbox__ocr.png",
                                     "text": "Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with\n71% marks in year 2018.\n",
                                     "correctLine": "Bachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with 71% marks in year 2018.",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 6,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_6_Text_0.9451014399528503_bbox__ocr.png"
                                 },
@@ -983,12 +983,12 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012.",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_1_Text_0.9952805638313293_bbox__ocr.png",
                                     "text": "Intermediate from CBSE Board with 60% marks in year 2014.\n\nHigh School from CBSE Board with 72% marks in year 2012.\n",
                                     "correctLine": "Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012.",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 1,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_1_Text_0.9952805638313293_bbox__ocr.png"
                                 },
@@ -1020,7 +1020,7 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery KEY SKILLS",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_5_Text_0.9511072635650635_bbox__ocr.png",
                                     "text": "Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery\n",
@@ -1054,22 +1054,22 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "Project Description: Explore Outing India Travel Guide that you will always like to keep whenever you travel. Just like your personal travel guide, it takes care of all of your travel needs right from the suggestion about where to travel as per your choice, information about nearby tourist attractions, booking a hotel prior to travel or at last minute",
-                                "orphan": true,
+                                "orphan": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_10_Title_0.5165619254112244_bbox__ocr.png",
                                     "text": "Project\n",
                                     "correctLine": "Project",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 10,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_10_Title_0.5165619254112244_bbox__ocr.png"
                                 },
-                                "matched": true,
+                                "matched": True,
                                 "append": [
                                     {
                                         "type": "pre",
                                         "row": {
                                             "line": "Description: Explore Outing India Travel Guide that you will always like to keep whenever you travel. Just like your personal travel guide, it takes care of all of your travel needs right from the suggestion about where to travel as per your choice, information about nearby tourist attractions, booking a hotel prior to travel or at last minute",
-                                            "matched": true,
+                                            "matched": True,
                                             "matchedRow": {
                                                 "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_4_Text_0.9793310761451721_bbox__ocr.png",
                                                 "text": "* Project Name: _ http://Awww.exploreouting.com/\n\nDescription: Explore Outing India Travel Guide that you will always like to keep whenever you\ntravel. Just like your personal travel guide, it takes care of all of your travel needs\nright from the suggestion about where to travel as per your choice, information\nabout nearby tourist attractions, booking a hotel prior to travel or at last minute\n",
@@ -1136,12 +1136,12 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "nearby your current location, get an advice/help from nearby travelers, road conditions and updates, weather information and updates Responsibilities: Technology: HTML,CSS, JAVASCRIPT,JQUERY, BOOTSTRAP, RESPONSIVE DESIGN",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_1_Text_0.9822129011154175_bbox__ocr.png",
                                     "text": "nearby your current location, get an advice/help from nearby travelers, road\nconditions and updates, weather information and updates Responsibilities:\n\nTechnology: HTML,CSS, JAVASCRIPT, JQUERY, BOOTSTRAP, RESPONSIVE\nDESIGN\n",
                                     "correctLine": "nearby your current location, get an advice/help from nearby travelers, road conditions and updates, weather information and updates Responsibilities: Technology: HTML,CSS, BOOTSTRAP, RESPONSIVE DESIGN",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 1,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_1_Text_0.9822129011154175_bbox__ocr.png"
                                 },
@@ -1175,12 +1175,12 @@ CandidatePayload= {
                             },
                             "lineData": {
                                 "line": "Permanent Address : Vill : Bhadar Distric : Amethi (U.P.)",
-                                "matched": true,
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_0_Text_0.9942354559898376_bbox__ocr.png",
                                     "text": "Sex\n\nNationality\n\nDate of Birth\n\nMarital Status\n\nMale\n\nIndian by birth.\n\n06 Jan 1998\n\nSingle\n\nPermanent Address\n",
                                     "correctLine": "Sex Nationality Date of Birth Marital Status Male Indian by birth. 06 Jan 1998 Single Permanent Address",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 0,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_0_Text_0.9942354559898376_bbox__ocr.png"
                                 },
@@ -1201,10 +1201,10 @@ CandidatePayload= {
                             ]
                         },
                         {
-                            "line": "Languages Known English and Hindi I hereby declare that information furnished above is true to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
-                            "nerline": "Languages Known English <LANGUAGE> and Hindi <LANGUAGE> I hereby declare that information furnished above is true to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 <DOB> Jan <DOB> 1998 <DOB> Marital Status : Single : : : : Place : _______________ Date : _______________",
+                            "line": "Languages Known English and Hindi I hereby declare that information furnished above is True to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
+                            "nerline": "Languages Known English <LANGUAGE> and Hindi <LANGUAGE> I hereby declare that information furnished above is True to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 <DOB> Jan <DOB> 1998 <DOB> Marital Status : Single : : : : Place : _______________ Date : _______________",
                             "entity": {
-                                "text": "Languages Known English and Hindi I hereby declare that information furnished above is true to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
+                                "text": "Languages Known English and Hindi I hereby declare that information furnished above is True to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
                                 "labels": [],
                                 "entities": [
                                     {
@@ -1245,19 +1245,19 @@ CandidatePayload= {
                                 ]
                             },
                             "lineData": {
-                                "line": "Languages Known English and Hindi I hereby declare that information furnished above is true to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
-                                "matched": true,
+                                "line": "Languages Known English and Hindi I hereby declare that information furnished above is True to best of my knowledge. PERSONAL DETAIL Sex Male Nationality Indian by birth. Date of Birth 06 Jan 1998 Marital Status : Single : : : : Place : _______________ Date : _______________",
+                                "matched": True,
                                 "matchedRow": {
                                     "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_4_Text_0.7746361494064331_bbox__ocr.png",
                                     "text": "Sex\n\nNationality\n\nDate of Birth\n\nMarital Status\n\nLanguages Known\n\nMale\n\nIndian by birth.\n\n06 Jan 1998\n\nSingle\n\nPermanent Address\n\nEnglish and Hindi\n\nVill : Bhadar Distric : Amethi (U.P.\n",
                                     "correctLine": "Sex Nationality Date of Birth Marital Status Languages Known Male Indian by birth. 06 Jan 1998 Single Permanent Address English and Hindi Vill : Bhadar Distric : Amethi (U.P.",
-                                    "isClaimed": true,
+                                    "isClaimed": True,
                                     "idx": 4,
                                     "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_4_Text_0.7746361494064331_bbox__ocr.png"
                                 },
                                 "sortLines": {
                                     "8": "English and Hindi",
-                                    "9": "I hereby declare that information furnished above is true to best of my knowledge.",
+                                    "9": "I hereby declare that information furnished above is True to best of my knowledge.",
                                     "10": "PERSONAL DETAIL",
                                     "11": "Sex",
                                     "12": "Male",
@@ -1469,7 +1469,7 @@ CandidatePayload= {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_0_Text_0.9990505576133728_bbox__ocr.png",
                             "text": "Abhishek Sombanshi\n\nA-2/15, Sector-15,\n\nNoida, UP, India-201301\n\nEmail: er.abhisheksombanshi@gmail.com\n\nMobile: +919354402231\n",
                             "correctLine": "Abhishek Sombanshi A-2/15, Sector-15, Noida, UP, India-201301 Email: er.abhisheksombanshi@gmail.com Mobile: +919354402231",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 0,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_0_Text_0.9990505576133728_bbox__ocr.png"
                         },
@@ -1477,7 +1477,7 @@ CandidatePayload= {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_1_Text_0.9952805638313293_bbox__ocr.png",
                             "text": "Intermediate from CBSE Board with 60% marks in year 2014.\n\nHigh School from CBSE Board with 72% marks in year 2012.\n",
                             "correctLine": "Intermediate from CBSE Board with 60% marks in year 2014. High School from CBSE Board with 72% marks in year 2012.",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 1,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_1_Text_0.9952805638313293_bbox__ocr.png"
                         },
@@ -1485,7 +1485,7 @@ CandidatePayload= {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_2_Title_0.9802706241607666_bbox__ocr.png",
                             "text": "RESUME\n",
                             "correctLine": "RESUME",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 2,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page0png/page0png_2_Title_0.9802706241607666_bbox__ocr.png"
                         },
@@ -1617,7 +1617,7 @@ CandidatePayload= {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_0_Text_0.9942354559898376_bbox__ocr.png",
                             "text": "Sex\n\nNationality\n\nDate of Birth\n\nMarital Status\n\nMale\n\nIndian by birth.\n\n06 Jan 1998\n\nSingle\n\nPermanent Address\n",
                             "correctLine": "Sex Nationality Date of Birth Marital Status Male Indian by birth. 06 Jan 1998 Single Permanent Address",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 0,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_0_Text_0.9942354559898376_bbox__ocr.png"
                         },
@@ -1625,13 +1625,13 @@ CandidatePayload= {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_1_Text_0.9822129011154175_bbox__ocr.png",
                             "text": "nearby your current location, get an advice/help from nearby travelers, road\nconditions and updates, weather information and updates Responsibilities:\n\nTechnology: HTML,CSS, JAVASCRIPT, JQUERY, BOOTSTRAP, RESPONSIVE\nDESIGN\n",
                             "correctLine": "nearby your current location, get an advice/help from nearby travelers, road conditions and updates, weather information and updates Responsibilities: Technology: HTML,CSS, BOOTSTRAP, RESPONSIVE DESIGN",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 1,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_1_Text_0.9822129011154175_bbox__ocr.png"
                         },
                         {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_2_Text_0.9787622094154358_bbox__ocr.png",
-                            "text": "I hereby declare that information furnished above is true to best of my knowledge.\n",
+                            "text": "I hereby declare that information furnished above is True to best of my knowledge.\n",
                             "confidance": [
                                 74,
                                 92,
@@ -1648,8 +1648,8 @@ CandidatePayload= {
                                 96,
                                 96
                             ],
-                            "correctLine": "hereby declare that information furnished above is true to best of my knowledge.",
-                            "isClaimed": false
+                            "correctLine": "hereby declare that information furnished above is True to best of my knowledge.",
+                            "isClaimed": False
                         },
                         {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_3_Title_0.8882975578308105_bbox__ocr.png",
@@ -1659,13 +1659,13 @@ CandidatePayload= {
                                 95
                             ],
                             "correctLine": "PERSONAL DETAIL",
-                            "isClaimed": false
+                            "isClaimed": False
                         },
                         {
                             "filename": "/workspace/app/detectron/../../cvreconstruction/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_4_Text_0.7746361494064331_bbox__ocr.png",
                             "text": "Sex\n\nNationality\n\nDate of Birth\n\nMarital Status\n\nLanguages Known\n\nMale\n\nIndian by birth.\n\n06 Jan 1998\n\nSingle\n\nPermanent Address\n\nEnglish and Hindi\n\nVill : Bhadar Distric : Amethi (U.P.\n",
                             "correctLine": "Sex Nationality Date of Birth Marital Status Languages Known Male Indian by birth. 06 Jan 1998 Single Permanent Address English and Hindi Vill : Bhadar Distric : Amethi (U.P.",
-                            "isClaimed": true,
+                            "isClaimed": True,
                             "idx": 4,
                             "bucketurl": "https://staticrecruitai.excellencetechnologies.in/53be669717f92aaaa68f20a2971bb934pdf/page1png/page1png_4_Text_0.7746361494064331_bbox__ocr.png"
                         },
@@ -1694,14 +1694,14 @@ CandidatePayload= {
                                 96
                             ],
                             "correctLine": "nearby your current location, get an advice/help from nearby travelers, road conditions and updates, weather information and updates Responsibilities:",
-                            "isClaimed": false,
+                            "isClaimed": False,
                             "idx": 5
                         }
                     ]
                 ],
                 "page_contents": [
                     "                                                      RESUME\n\nEmail: er.abhisheksombanshi@gmail.com\n\n \n\nAbhishek Sombanshi\n\nA-2/15, Sector-15, \n\nNoida, UP, India-201301\n\nMobile: +919354402231\n\nOBJECTIVE \n\nQUALIFICATION\n\nTo apply my skills & experience in the various disciplines of Software Development in an Organization \nwhich gives me an opportunity to learn, grow & proves one’s ability.\n\nBachelor of Technology with Computer Science & Engineering U.P. Technical University, Lucknow with \n71% marks in year 2018.\n\nIntermediate from CBSE Board with 60% marks in year 2014.\n\nHigh School from CBSE Board with 72% marks in year 2012.\n\nSkills:    HTML, CSS, Bootstrap, Responsive Design, Javascript,Jquery\n\nKEY SKILLS\n\nProject\n\n• Project Name: \n\nhttp://www.exploreouting.com/\n\nDescription:\n\nExplore Outing India Travel Guide that you will always like to keep whenever you\ntravel. Just like your personal travel guide, it takes care of all of your travel needs \nright from the suggestion about where to travel as per your choice, information \nabout nearby tourist attractions, booking a hotel prior to travel or at last minute \n\n\f",
-                    "nearby your current location, get an advice/help from nearby travelers, road \nconditions and updates, weather information and updates Responsibilities:\n\nTechnology:\n\n HTML,CSS, JAVASCRIPT,JQUERY, BOOTSTRAP, RESPONSIVE \nDESIGN\n\n•\n\nPermanent Address            :            Vill : Bhadar Distric : Amethi (U.P.)\n\nLanguages Known\n\nEnglish and Hindi\n\nI hereby declare that information furnished above is true to best of my knowledge.\n\nPERSONAL DETAIL\n\nSex\n\nMale\n\nNationality\n\nIndian by birth.\n\nDate of Birth\n\n06 Jan 1998\n\nMarital Status\n\n: \n\nSingle\n\n:\n\n:\n\n:\n\n:\n\nPlace : _______________\n\nDate :  _______________\n\n____________________(Abhishek Sombanshi)\n\n\f"
+                    "nearby your current location, get an advice/help from nearby travelers, road \nconditions and updates, weather information and updates Responsibilities:\n\nTechnology:\n\n HTML,CSS, JAVASCRIPT,JQUERY, BOOTSTRAP, RESPONSIVE \nDESIGN\n\n•\n\nPermanent Address            :            Vill : Bhadar Distric : Amethi (U.P.)\n\nLanguages Known\n\nEnglish and Hindi\n\nI hereby declare that information furnished above is True to best of my knowledge.\n\nPERSONAL DETAIL\n\nSex\n\nMale\n\nNationality\n\nIndian by birth.\n\nDate of Birth\n\n06 Jan 1998\n\nMarital Status\n\n: \n\nSingle\n\n:\n\n:\n\n:\n\n:\n\nPlace : _______________\n\nDate :  _______________\n\n____________________(Abhishek Sombanshi)\n\n\f"
                 ]
             },
             "ai_version_processed": "detectron4_xlnetpartsclassify_0.1",
@@ -1727,81 +1727,81 @@ CandidatePayload= {
                     [
                         "software",
                         0,
-                        true
+                        True
                     ],
                     [
                         "skills",
                         0.742966741323471,
-                        true
+                        True
                     ],
                     [
                         "development",
                         0.678664028644562,
-                        true
+                        True
                     ]
                 ],
                 [
                     [
                         "jquery",
                         0,
-                        true
+                        True
                     ],
                     [
                         "bootstrap",
                         0.436482310295105,
-                        true
+                        True
                     ],
                     [
                         "css",
                         0.444054305553436,
-                        true
+                        True
                     ],
                     [
                         "design",
                         0.682539492845535,
-                        true
+                        True
                     ],
                     [
                         "javascript",
                         0.709662795066833,
-                        true
+                        True
                     ],
                     [
                         "html",
                         0.572405844926834,
-                        true
+                        True
                     ]
                 ],
                 [
                     [
                         "jquery",
                         0,
-                        true
+                        True
                     ],
                     [
                         "css",
                         0.444054305553436,
-                        true
+                        True
                     ],
                     [
                         "bootstrap",
                         0.436482310295105,
-                        true
+                        True
                     ],
                     [
                         "design",
                         0.682539492845535,
-                        true
+                        True
                     ],
                     [
                         "javascript",
                         0.709662795066833,
-                        true
+                        True
                     ],
                     [
                         "html",
                         0.572405844926834,
-                        true
+                        True
                     ]
                 ]
             ]
